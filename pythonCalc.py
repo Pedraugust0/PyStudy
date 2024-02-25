@@ -18,7 +18,7 @@ while(goBack == "n"):
             case "^":
                 return pow(int(num1), int(num2))
             case _:
-                return "valor invalido"
+                return "None"
 
     Result = calculation(operation)
     print ("\n Result of ", num1, operation, num2, "=", Result)
