@@ -16,8 +16,6 @@ while(goBack == "n"):
                 return float(num1) * float(num2)
             case "/":
                 return float(num1) / float(num2)
-            case "^":
-                return pow(float(num1), float(num2))
             case _:
                 return "None"
 
