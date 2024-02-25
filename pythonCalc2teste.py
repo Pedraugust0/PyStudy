@@ -21,3 +21,4 @@ while(goBack == "n"):
 
     Result = calculation(operation)
     print ("\n Result of ", num1, operation, num2, "=", Result)
+    while(yeahbabyu)
