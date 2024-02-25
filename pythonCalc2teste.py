@@ -21,4 +21,3 @@ while(goBack == "n"):
 
     Result = calculation(operation)
     print ("\n Result of ", num1, operation, num2, "=", Result)
-    goBack = input("\n Do you wanna exit? y/n \n")
